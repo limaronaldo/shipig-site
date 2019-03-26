@@ -1,8 +1,8 @@
 ---
-title: November 2060
+title: Agosto de Deus 2020
 date: 2060-11-09T23:00:00.000Z
 presenters:
-  - image: /img/jonas-kakaroto-577554-unsplash.jpg
+  - image: /img/edward-cisneros-415601-unsplash.jpg
     links:
       - linkText: Github Example
         linkURL: 'https://github.com/'
