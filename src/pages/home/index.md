@@ -1,11 +1,11 @@
 ---
 templateKey: home-page
 headerImage:
-  image: /img/television.png
-  imageAlt: JavaScript Wakanda
-title: Meet other JavaScript Developers in Wakanda
-upcomingMeetupHeading: Upcoming Meetup
-noUpcomingMeetupText: Details to be announced.
+  image: /img/ship-table.png
+  imageAlt: Table Ship
+title: Conheça nossos novos Cursos e Treinamentos
+upcomingMeetupHeading: 'Agende seu Curso '
+noUpcomingMeetupText: Novas Datas Disponíveis
 mapsNote: Clicking the pin opens Google Maps in a new tab.
 callToActions:
   firstCTA:
