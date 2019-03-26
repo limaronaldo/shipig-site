@@ -4,10 +4,10 @@ menuItems:
   - label: home
     linkType: internal
     linkURL: /
-  - label: about
+  - label: sobre
     linkType: internal
     linkURL: /about
-  - label: past meetups
+  - label: cursos
     linkType: internal
     linkURL: /meetups
 ---
